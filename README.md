@@ -12,6 +12,18 @@ labs and exercises found here into the curriculum.
  1. [Getting started with IQmol](iqmol/README.md)
  2. [Computational labs with Q-Chem](qchem-labs/README.md)
 
+## How to contribute
+
+If you'd like to contribute IQmol or Q-Chem labs or exercises into our
+collection, fork this repository, make changes as appropriate, and submit
+a pull request. When making changes, follow these rules:
+ * Each new series of labs or exercises must be contained in a subdirectory
+ * Create README.md to describe the exercises, follow the style of existing labs
+ * Ensure that README.md contains a complete list of contributors
+ * Pull request must contain the authors' express permission to publish the materials under the CC BY-NC-SA 4.0 license
+
+If you find a problem with one of the labs contained here, please post an issue against this repository to let us know.
+
 ## License
 
 This work is licensed under a [Creative Commons
