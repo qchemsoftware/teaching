@@ -10,6 +10,7 @@ labs and exercises found here into the curriculum.
 ## Table of contents
 
  1. [Getting started with IQmol](iqmol/README.md)
+ 2. [Computational labs with Q-Chem](qchem-labs/README.md)
 
 ## License
 
