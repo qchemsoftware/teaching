@@ -7,6 +7,10 @@ of users and developers. If you are teaching a class in computational, physical,
 quantum chemistry or another similar discipline, feel free to incorporate
 labs and exercises found here into the curriculum.
 
+## Table of contents
+
+ 1. [Getting started with IQmol](iqmol/README.md)
+
 ## License
 
 This work is licensed under a [Creative Commons
