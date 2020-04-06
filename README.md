@@ -11,6 +11,7 @@ labs and exercises found here into the curriculum.
 
  1. [Getting started with IQmol](iqmol/)
  2. [Computational labs with Q-Chem](qchem-labs/)
+ 3. [Experimental (FTIR)/Computational Characterization Projects](charac-projects/)
 
 ## How to contribute
 
