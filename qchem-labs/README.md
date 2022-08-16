@@ -43,6 +43,15 @@
 
 **Learning objectives:** Learn how to build and manipulate molecules; how to optimize molecular geometry; how to compute energy differences from total energies. Review basic concepts of structure of organic molecules containing sp3-hybridized carbon atoms.
 
+### Computing Franck-Condon Factors
+
+[Lab Handout](ezFCF_lab-Gozem.pdf)
+
+**Description:** Students will calculate vibrational progressions (Franck-Condon factors) in spectra of polyatomic molecules. This assignment builds on the students’ previous experience computing optimized molecular structures, vibrational frequencies, and excited or ionized states.
+
+**Suggested level:** Graduate or advanced undergraduate.
+
+**Learning objectives:** Understand how the vibrational states of a molecule influence the energetics and the probabilities of radiative transitions; understand vibrational profiles of electronic spectra.
 
 ## Group 2: Molecular orbital theory
 
@@ -76,6 +85,15 @@
 
 **Learning objectives:** Learn how to compute and visualize molecular orbitals and how to connect the computed orbital energies with experimental observables such as ionization energies (IEs). By analyzing the shapes of the MOs, make predictions about anticipated shapes of photoelectron spectra. Learn how to determine symmetry of the ionized states. 
 
+### Molecular Orbitals of Diatomic Molecules in Their Lowest Singlet and Triplet States
+
+[Lab Handout](MO_Lab_Gozem.pdf)
+
+**Description:** In this lab we will compute the geometries and molecular orbitals of three diatomic molecules: H2, N2, and O2. Using these molecular orbitals and their electron occupations, we will learn about how electronic structure determines the properties of molecules in different spin states.
+
+**Suggested level:** Advanced high school or undergraduate students.
+
+**Learning objectives:** Learn how to compute molecular orbitals and to make predictions about molecular properties such as bond order from these orbitals and their occupations.
 
 ## Group 3: Electronically excited states 
 
@@ -130,3 +148,5 @@
  * Natalie Orms
  * Andrew Gilbert
  * Pavel Pokhilko
+ * Samer Gozem group @ Georgia State University
+
